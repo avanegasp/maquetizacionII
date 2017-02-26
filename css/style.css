@@ -1,7 +1,81 @@
-.wrapper{
-	background:#575759; 
+.wrapper {
+	margin-top: 30px;
 }
 
 .container {
-	background: white ;
+	background:#DFF8FC;
+}
+
+#nav a {
+	text-decoration: none;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 10px;
+	color: green;
+}
+
+/* Comienzo Acerca de mi */
+.text p {
+	text-align: center;
+	font-size: 15px;
+	color: red;
+}
+
+.text h2 {
+	text-align: center;
+	font-size: 30px;
+}
+
+.text1 p{
+	color: grey;
+}
+
+.text2 h2{
+	font-size: 30px;
+	padding: 10px;
+}
+.text2 p {
+	font-family: 'Lora', serif;
+	text-align: justify;
+	font-size: 15px;
+}
+/*Final Acerca de mi */
+
+/*Comienzo Galería*/
+.btn-group {
+	padding: 10px;
+}
+/*Final Galería*/
+
+/*Comienzo Contacto*/
+#contacto h1{
+	font-size: 40px;
+}
+
+#contacto button {
+	padding: 5px;
+	border-radius: 5px;
+	margin-left: 150px;
+}
+
+#contacto .text3 input {
+	padding: 5px;
+	border-radius: 5px;
+}
+
+#contacto .mensaje input {
+	height: 120px;
+	width: 255px;
+	border-radius: 5px;
+}
+
+.text4 p{
+	color: red;
+	font-size: 15px;
+	text-align: justify;
+}
+
+hr {
+	margin-right: 100px;
+	margin-left: 100px;
 }
