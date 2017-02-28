@@ -18,7 +18,7 @@
 .text p {
 	text-align: center;
 	font-size: 15px;
-	color: red;
+	color: #0BCAC6;
 }
 
 .text h2 {
@@ -70,7 +70,7 @@
 }
 
 .text4 p{
-	color: red;
+	color: #0BCAC6;
 	font-size: 15px;
 	text-align: justify;
 }
